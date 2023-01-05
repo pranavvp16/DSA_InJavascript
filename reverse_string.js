@@ -13,4 +13,7 @@ function reverse(str){
 
     return console.log(backwards.join(''));
 }
+function reverse2(str){
+    return str.split('').reverse().join
+}
 reverse("hello my Name is Pranav")
